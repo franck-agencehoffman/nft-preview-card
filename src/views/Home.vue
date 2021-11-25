@@ -182,7 +182,7 @@ export default {
       width: 100%;
       height: 1px;
       margin-bottom: 16px;
-      background: $darkBlue1;
+      background: $darkBlue3;
     }
 
     .author {
